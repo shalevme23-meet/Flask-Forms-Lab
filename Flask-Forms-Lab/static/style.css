@@ -43,3 +43,7 @@ color: white;}
 .btn:hover {
   opacity: 1;
 }
+
+p {
+    color : white;
+}
